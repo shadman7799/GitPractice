@@ -1,0 +1,23 @@
+rm -rf .git // delete git repository
+Ls
+pwd
+cd
+git status
+git add --a // add to staging area
+git add (file name)
+Git commit -m "message"
+git diff //comapare
+Git commit -a -m "message"
+git rm --cached file_name // untracked a file
+git log -p -n // difference where n = 1,2,3....
+git log --stat // summery of difference
+git checkout -- filename // back to the previous file
+git checkout -f // back to previous clean working directory
+git remote
+git remote -v
+
+
+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
+
+
+git remote set-url origin https://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@github.com/shadman7799/GitPractice
