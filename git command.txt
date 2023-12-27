@@ -15,9 +15,9 @@ git checkout -- filename // back to the previous file
 git checkout -f // back to previous clean working directory
 git remote
 git remote -v
-git checkout -b brach_name
+git push origin main
 
-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
+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
 
 
-git remote set-url origin https://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@github.com/shadman7799/GitPractice
+git remote set-url origin https://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@github.com/shadman7799/GitPractice
